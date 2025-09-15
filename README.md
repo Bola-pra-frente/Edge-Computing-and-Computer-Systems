@@ -90,3 +90,9 @@ O sistema segue uma arquitetura simples de IoT, onde o sensor coleta os dados, o
     - Clique em "Upload" para gravar o código no ESP32.
     - Abra o "Serial Monitor" com a velocidade de `115200` para acompanhar o status da conexão e os dados que estão sendo enviados.
     - Acesse seu canal no ThingSpeak para visualizar os dados sendo plotados nos gráficos.
+
+## Demonstração do Projeto
+
+Assista ao vídeo de demonstração do projeto em funcionamento no YouTube:
+
+[**Clique aqui para ver o vídeo**](https://www.youtube.com/watch?v=k54N_aLTxWI)
